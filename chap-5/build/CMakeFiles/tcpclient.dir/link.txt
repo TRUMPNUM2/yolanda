@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/tcpclient.dir/tcpclient.o  -o tcpclient -rdynamic -lyolanda 
